@@ -1,0 +1,658 @@
+{
+  "stats": {
+    "total_files": 161,
+    "files_with_issues": 79,
+    "total_issues": 211,
+    "issue_types": {
+      "title过长(70字符)": 2,
+      "title过长(72字符)": 2,
+      "title过长(73字符)": 2,
+      "title过长(64字符)": 2,
+      "meta description过短(119字符)": 1,
+      "标题层级跳跃": 119,
+      "缺少title标签": 3,
+      "缺少meta description": 3,
+      "缺少H1标签": 3,
+      "缺少canonical链接": 3,
+      "缺少og": 12,
+      "缺少twitter": 12,
+      "缺少Schema.org JSON-LD标记": 3,
+      "title过短(25字符)": 3,
+      "meta description过短(34字符)": 1,
+      "meta description过短(33字符)": 1,
+      "title过短(28字符)": 3,
+      "title过短(23字符)": 4,
+      "title过短(26字符)": 2,
+      "title过短(27字符)": 1,
+      "title过短(21字符)": 3,
+      "title过短(24字符)": 3,
+      "title过短(29字符)": 1,
+      "meta description过短(40字符)": 1,
+      "meta description过短(117字符)": 1,
+      "meta description过短(111字符)": 1,
+      "title过长(65字符)": 1,
+      "title过长(69字符)": 2,
+      "meta description过长(182字符)": 1,
+      "title过长(78字符)": 2,
+      "title过长(80字符)": 1,
+      "meta description过长(165字符)": 1,
+      "meta description过长(186字符)": 1,
+      "title过长(61字符)": 1,
+      "title过长(79字符)": 1,
+      "meta description过长(161字符)": 1,
+      "title过长(77字符)": 1,
+      "meta description过长(172字符)": 1,
+      "title过长(67字符)": 2,
+      "meta description过长(162字符)": 1,
+      "title过长(66字符)": 2
+    }
+  },
+  "issues": [
+    {
+      "file": "index.html",
+      "issues": [
+        "title过长(70字符)"
+      ]
+    },
+    {
+      "file": "about\\certifications.html",
+      "issues": [
+        "title过长(72字符)"
+      ]
+    },
+    {
+      "file": "about\\our-story.html",
+      "issues": [
+        "title过长(73字符)"
+      ]
+    },
+    {
+      "file": "about\\sustainability.html",
+      "issues": [
+        "title过长(64字符)",
+        "meta description过短(119字符)"
+      ]
+    },
+    {
+      "file": "blog\\artisan-leather-craftsmanship-techniques-2024.html",
+      "issues": [
+        "标题层级跳跃: h3跳过了h2"
+      ]
+    },
+    {
+      "file": "blog\\bespoke-evening-bags-complete-guide-2024.html",
+      "issues": [
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h5跳过了h4",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3"
+      ]
+    },
+    {
+      "file": "blog\\business-travel-bags-guide-2024.html",
+      "issues": [
+        "标题层级跳跃: h3跳过了h2",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3"
+      ]
+    },
+    {
+      "file": "blog\\customer-service-excellence.html",
+      "issues": [
+        "缺少title标签",
+        "缺少meta description",
+        "缺少H1标签",
+        "缺少canonical链接",
+        "缺少og:title",
+        "缺少og:description",
+        "缺少og:image",
+        "缺少og:url",
+        "缺少twitter:card",
+        "缺少twitter:title",
+        "缺少twitter:description",
+        "缺少twitter:image",
+        "缺少Schema.org JSON-LD标记"
+      ]
+    },
+    {
+      "file": "blog\\designer-bucket-bags.html",
+      "issues": [
+        "标题层级跳跃: h4跳过了h3"
+      ]
+    },
+    {
+      "file": "blog\\ecommerce-platform-strategies.html",
+      "issues": [
+        "标题层级跳跃: h5跳过了h4",
+        "标题层级跳跃: h5跳过了h4",
+        "标题层级跳跃: h5跳过了h4"
+      ]
+    },
+    {
+      "file": "blog\\executive-briefcase-selection-guide-2024.html",
+      "issues": [
+        "标题层级跳跃: h3跳过了h2"
+      ]
+    },
+    {
+      "file": "blog\\executive-business-sets-guide-2024.html",
+      "issues": [
+        "标题层级跳跃: h3跳过了h2",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3"
+      ]
+    },
+    {
+      "file": "blog\\executive-business-totes-guide-2024.html",
+      "issues": [
+        "标题层级跳跃: h3跳过了h2",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h5跳过了h4",
+        "标题层级跳跃: h5跳过了h4",
+        "标题层级跳跃: h5跳过了h4",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3"
+      ]
+    },
+    {
+      "file": "blog\\executive-business-travel-bags-guide-2024.html",
+      "issues": [
+        "标题层级跳跃: h3跳过了h2"
+      ]
+    },
+    {
+      "file": "blog\\executive-womens-handbags-guide-2024.html",
+      "issues": [
+        "标题层级跳跃: h3跳过了h2"
+      ]
+    },
+    {
+      "file": "blog\\global-expansion-strategy.html",
+      "issues": [
+        "title过短(25字符)"
+      ]
+    },
+    {
+      "file": "blog\\international-trade-export-strategies.html",
+      "issues": [
+        "meta description过短(34字符)"
+      ]
+    },
+    {
+      "file": "blog\\international-trade-export-strategy.html",
+      "issues": [
+        "meta description过短(33字符)"
+      ]
+    },
+    {
+      "file": "blog\\leadership-management-skills.html",
+      "issues": [
+        "title过短(28字符)"
+      ]
+    },
+    {
+      "file": "blog\\luxury-business-backpacks-guide-2024.html",
+      "issues": [
+        "标题层级跳跃: h3跳过了h2",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3"
+      ]
+    },
+    {
+      "file": "blog\\luxury-business-card-holders-guide-2024.html",
+      "issues": [
+        "标题层级跳跃: h3跳过了h2"
+      ]
+    },
+    {
+      "file": "blog\\luxury-business-messenger-bags-guide-2024.html",
+      "issues": [
+        "标题层级跳跃: h3跳过了h2",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h5跳过了h4",
+        "标题层级跳跃: h5跳过了h4",
+        "标题层级跳跃: h5跳过了h4",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3"
+      ]
+    },
+    {
+      "file": "blog\\luxury-business-travel-accessories-guide-2024.html",
+      "issues": [
+        "标题层级跳跃: h3跳过了h2"
+      ]
+    },
+    {
+      "file": "blog\\luxury-business-wallets-guide-2024.html",
+      "issues": [
+        "title过短(28字符)",
+        "标题层级跳跃: h3跳过了h2"
+      ]
+    },
+    {
+      "file": "blog\\luxury-business-womens-handbags-guide-2024.html",
+      "issues": [
+        "标题层级跳跃: h3跳过了h2"
+      ]
+    },
+    {
+      "file": "blog\\luxury-camera-bags-guide-2024.html",
+      "issues": [
+        "title过短(23字符)",
+        "标题层级跳跃: h3跳过了h2"
+      ]
+    },
+    {
+      "file": "blog\\luxury-charger-cases-guide-2024.html",
+      "issues": [
+        "title过短(25字符)",
+        "标题层级跳跃: h3跳过了h2"
+      ]
+    },
+    {
+      "file": "blog\\luxury-cosmetic-bags-guide-2024.html",
+      "issues": [
+        "缺少title标签",
+        "缺少meta description",
+        "缺少H1标签",
+        "缺少canonical链接",
+        "缺少og:title",
+        "缺少og:description",
+        "缺少og:image",
+        "缺少og:url",
+        "缺少twitter:card",
+        "缺少twitter:title",
+        "缺少twitter:description",
+        "缺少twitter:image",
+        "缺少Schema.org JSON-LD标记"
+      ]
+    },
+    {
+      "file": "blog\\luxury-custom-handbags-selection-guide-2024.html",
+      "issues": [
+        "标题层级跳跃: h3跳过了h2"
+      ]
+    },
+    {
+      "file": "blog\\luxury-document-cases-guide-2024.html",
+      "issues": [
+        "title过短(26字符)",
+        "标题层级跳跃: h3跳过了h2"
+      ]
+    },
+    {
+      "file": "blog\\luxury-evening-clutches-guide-2024.html",
+      "issues": [
+        "标题层级跳跃: h3跳过了h2"
+      ]
+    },
+    {
+      "file": "blog\\luxury-eyewear-cases-guide-2024.html",
+      "issues": [
+        "title过短(25字符)",
+        "标题层级跳跃: h3跳过了h2"
+      ]
+    },
+    {
+      "file": "blog\\luxury-headphone-cases-guide-2024.html",
+      "issues": [
+        "title过短(27字符)",
+        "标题层级跳跃: h3跳过了h2"
+      ]
+    },
+    {
+      "file": "blog\\luxury-key-cases-guide-2024.html",
+      "issues": [
+        "title过短(21字符)",
+        "标题层级跳跃: h3跳过了h2"
+      ]
+    },
+    {
+      "file": "blog\\luxury-laptop-bags-guide-2024.html",
+      "issues": [
+        "title过短(23字符)",
+        "标题层级跳跃: h3跳过了h2"
+      ]
+    },
+    {
+      "file": "blog\\luxury-leather-handbags-craftsmanship-guide-2024.html",
+      "issues": [
+        "标题层级跳跃: h3跳过了h2"
+      ]
+    },
+    {
+      "file": "blog\\luxury-luggage-tags-guide-2024.html",
+      "issues": [
+        "title过短(24字符)",
+        "标题层级跳跃: h3跳过了h2"
+      ]
+    },
+    {
+      "file": "blog\\luxury-medical-bags-guide-2024.html",
+      "issues": [
+        "title过短(24字符)",
+        "标题层级跳跃: h3跳过了h2"
+      ]
+    },
+    {
+      "file": "blog\\luxury-mens-business-wallets-guide-2024.html",
+      "issues": [
+        "标题层级跳跃: h3跳过了h2"
+      ]
+    },
+    {
+      "file": "blog\\luxury-mini-bags.html",
+      "issues": [
+        "标题层级跳跃: h4跳过了h3"
+      ]
+    },
+    {
+      "file": "blog\\luxury-passport-holders-guide-2024.html",
+      "issues": [
+        "title过短(28字符)",
+        "标题层级跳跃: h3跳过了h2"
+      ]
+    },
+    {
+      "file": "blog\\luxury-pen-cases-guide-2024.html",
+      "issues": [
+        "title过短(21字符)",
+        "标题层级跳跃: h3跳过了h2"
+      ]
+    },
+    {
+      "file": "blog\\luxury-phone-cases-guide-2024.html",
+      "issues": [
+        "title过短(23字符)",
+        "标题层级跳跃: h3跳过了h2"
+      ]
+    },
+    {
+      "file": "blog\\luxury-shoulder-bags-complete-guide-2024.html",
+      "issues": [
+        "标题层级跳跃: h4跳过了h3"
+      ]
+    },
+    {
+      "file": "blog\\luxury-shoulder-bags-styling-occasions-2024.html",
+      "issues": [
+        "标题层级跳跃: h3跳过了h2"
+      ]
+    },
+    {
+      "file": "blog\\luxury-tablet-cases-guide-2024.html",
+      "issues": [
+        "title过短(24字符)",
+        "标题层级跳跃: h3跳过了h2"
+      ]
+    },
+    {
+      "file": "blog\\luxury-tool-bags-guide-2024.html",
+      "issues": [
+        "title过短(21字符)",
+        "标题层级跳跃: h3跳过了h2"
+      ]
+    },
+    {
+      "file": "blog\\luxury-tote-bags-guide.html",
+      "issues": [
+        "标题层级跳跃: h4跳过了h3"
+      ]
+    },
+    {
+      "file": "blog\\luxury-travel-bags-guide.html",
+      "issues": [
+        "title过短(29字符)"
+      ]
+    },
+    {
+      "file": "blog\\luxury-travel-luggage-investment-guide-2024.html",
+      "issues": [
+        "标题层级跳跃: h3跳过了h2"
+      ]
+    },
+    {
+      "file": "blog\\luxury-travel-suitcases-guide-2024.html",
+      "issues": [
+        "标题层级跳跃: h3跳过了h2"
+      ]
+    },
+    {
+      "file": "blog\\luxury-travel-wallets-guide-2024.html",
+      "issues": [
+        "title过短(26字符)",
+        "标题层级跳跃: h3跳过了h2"
+      ]
+    },
+    {
+      "file": "blog\\luxury-watch-cases-guide-2024.html",
+      "issues": [
+        "title过短(23字符)",
+        "标题层级跳跃: h3跳过了h2"
+      ]
+    },
+    {
+      "file": "blog\\luxury-womens-business-wallets-guide-2024.html",
+      "issues": [
+        "标题层级跳跃: h3跳过了h2"
+      ]
+    },
+    {
+      "file": "blog\\oem-quality-control-guide.html",
+      "issues": [
+        "meta description过短(40字符)"
+      ]
+    },
+    {
+      "file": "blog\\premium-business-travel-bags-guide-2024.html",
+      "issues": [
+        "标题层级跳跃: h3跳过了h2"
+      ]
+    },
+    {
+      "file": "blog\\premium-laptop-bags-business-guide-2024.html",
+      "issues": [
+        "标题层级跳跃: h3跳过了h2"
+      ]
+    },
+    {
+      "file": "blog\\professional-laptop-bags-guide-2024-part2.html",
+      "issues": [
+        "缺少title标签",
+        "缺少meta description",
+        "缺少H1标签",
+        "标题层级跳跃: h2跳过了h1",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3",
+        "缺少canonical链接",
+        "缺少og:title",
+        "缺少og:description",
+        "缺少og:image",
+        "缺少og:url",
+        "缺少twitter:card",
+        "缺少twitter:title",
+        "缺少twitter:description",
+        "缺少twitter:image",
+        "缺少Schema.org JSON-LD标记"
+      ]
+    },
+    {
+      "file": "blog\\professional-laptop-bags-guide-2024.html",
+      "issues": [
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3",
+        "标题层级跳跃: h4跳过了h3"
+      ]
+    },
+    {
+      "file": "blog\\professional-womens-handbags-guide-2024.html",
+      "issues": [
+        "标题层级跳跃: h3跳过了h2"
+      ]
+    },
+    {
+      "file": "blog\\quality-standards-testing.html",
+      "issues": [
+        "meta description过短(117字符)"
+      ]
+    },
+    {
+      "file": "blog\\smart-manufacturing-innovation.html",
+      "issues": [
+        "meta description过短(111字符)"
+      ]
+    },
+    {
+      "file": "contact\\index.html",
+      "issues": [
+        "title过长(65字符)"
+      ]
+    },
+    {
+      "file": "products\\backpacks.html",
+      "issues": [
+        "title过长(69字符)",
+        "meta description过长(182字符)"
+      ]
+    },
+    {
+      "file": "products\\business-bags.html",
+      "issues": [
+        "title过长(78字符)"
+      ]
+    },
+    {
+      "file": "products\\custom-collections.html",
+      "issues": [
+        "title过长(80字符)"
+      ]
+    },
+    {
+      "file": "products\\evening-bags.html",
+      "issues": [
+        "title过长(72字符)",
+        "meta description过长(165字符)"
+      ]
+    },
+    {
+      "file": "products\\handbags.html",
+      "issues": [
+        "title过长(70字符)",
+        "meta description过长(186字符)"
+      ]
+    },
+    {
+      "file": "products\\index.html",
+      "issues": [
+        "title过长(61字符)"
+      ]
+    },
+    {
+      "file": "products\\leather-accessories.html",
+      "issues": [
+        "title过长(79字符)",
+        "meta description过长(161字符)"
+      ]
+    },
+    {
+      "file": "products\\luxury-handbags.html",
+      "issues": [
+        "title过长(64字符)"
+      ]
+    },
+    {
+      "file": "products\\travel-bags.html",
+      "issues": [
+        "title过长(77字符)",
+        "meta description过长(172字符)"
+      ]
+    },
+    {
+      "file": "products\\travel-luggage.html",
+      "issues": [
+        "title过长(67字符)"
+      ]
+    },
+    {
+      "file": "services\\custom-design.html",
+      "issues": [
+        "title过长(67字符)"
+      ]
+    },
+    {
+      "file": "services\\index.html",
+      "issues": [
+        "title过长(73字符)",
+        "meta description过长(162字符)"
+      ]
+    },
+    {
+      "file": "services\\odm-solutions.html",
+      "issues": [
+        "title过长(69字符)"
+      ]
+    },
+    {
+      "file": "services\\oem-manufacturing.html",
+      "issues": [
+        "title过长(78字符)"
+      ]
+    },
+    {
+      "file": "services\\private-label.html",
+      "issues": [
+        "title过长(66字符)"
+      ]
+    },
+    {
+      "file": "services\\quality-assurance.html",
+      "issues": [
+        "title过长(66字符)"
+      ]
+    }
+  ]
+}

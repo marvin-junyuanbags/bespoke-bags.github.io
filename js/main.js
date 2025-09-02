@@ -43,6 +43,8 @@ document.addEventListener('DOMContentLoaded', function() {
     const header = document.querySelector('header');
     
     window.addEventListener('scroll', function() {
+        if (!header) return; // Add null check
+        
         const scrollTop = window.pageYOffset || document.documentElement.scrollTop;
         
         if (scrollTop > lastScrollTop && scrollTop > 100) {
