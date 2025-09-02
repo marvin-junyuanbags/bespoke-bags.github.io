@@ -1,0 +1,4037 @@
+{
+  "summary": {
+    "total_files_checked": 165,
+    "total_links_found": 908,
+    "internal_links": 898,
+    "external_links": 10,
+    "total_issues": 527,
+    "missing_files": 322
+  },
+  "issues": [
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\backpacking-gear-essentials.html",
+      "link": "../products.html#casual-bags",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\products.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\backpacking-gear-essentials.html",
+      "link": "../products.html#accessories",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\products.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\bag-manufacturing-craftsmanship.html",
+      "link": "../images/craftsmanship-hero.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\craftsmanship-hero.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\bag-manufacturing-craftsmanship.html",
+      "link": "../images/leather-selection-process.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\leather-selection-process.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\bag-manufacturing-craftsmanship.html",
+      "link": "../images/hand-stitching-process.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\hand-stitching-process.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\bag-manufacturing-craftsmanship.html",
+      "link": "../images/cad-design-system.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\cad-design-system.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\bag-manufacturing-craftsmanship.html",
+      "link": "../images/laser-cutting-technology.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\laser-cutting-technology.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\bag-manufacturing-craftsmanship.html",
+      "link": "../images/traditional-modern-fusion.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\traditional-modern-fusion.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\bag-manufacturing-craftsmanship.html",
+      "link": "../images/sustainable-manufacturing.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\sustainable-manufacturing.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\bag-manufacturing-craftsmanship.html",
+      "link": "../privacy.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\privacy.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\bag-manufacturing-craftsmanship.html",
+      "link": "../terms.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\terms.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\bespoke-business-handbags-guide-2024.html",
+      "link": "../images/business-handbags-collection.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\business-handbags-collection.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\bespoke-business-handbags-guide-2024.html",
+      "link": "../images/structured-design.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\structured-design.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\bespoke-business-handbags-guide-2024.html",
+      "link": "../images/premium-hardware.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\premium-hardware.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\bespoke-business-handbags-guide-2024.html",
+      "link": "../images/organizational-compartments.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\organizational-compartments.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\bespoke-business-handbags-guide-2024.html",
+      "link": "../images/professional-finish.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\professional-finish.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\bespoke-business-handbags-guide-2024.html",
+      "link": "professional-leather-goods-trends.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\professional-leather-goods-trends.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\bespoke-evening-bags-complete-guide-2024.html",
+      "link": "../images/bespoke-evening-bags-hero.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-evening-bags-hero.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\bespoke-travel-sets-customization-guide-2024.html",
+      "link": "../images/bespoke-travel-sets.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-travel-sets.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\bespoke-travel-sets-customization-guide-2024.html",
+      "link": "../images/bespoke-luggage-collection.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-luggage-collection.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\bespoke-travel-sets-customization-guide-2024.html",
+      "link": "../images/coordinated-accessories.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\coordinated-accessories.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\brand-building-marketing-strategies.html",
+      "link": "../privacy-policy.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\privacy-policy.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\brand-building-marketing-strategies.html",
+      "link": "../terms-of-service.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\terms-of-service.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\brand-building-marketing-strategies.html",
+      "link": "../sitemap.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\sitemap.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\business-travel-accessories-guide-2024.html",
+      "link": "../images/business-travel-accessories.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\business-travel-accessories.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\business-travel-accessories-guide-2024.html",
+      "link": "../images/document-organizers.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\document-organizers.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\business-travel-accessories-guide-2024.html",
+      "link": "../images/travel-organizers.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\travel-organizers.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\business-travel-bags-2024.html",
+      "link": "../products.html#casual-bags",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\products.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\business-travel-bags-2024.html",
+      "link": "../products.html#accessories",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\products.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\business-travel-bags-guide-2024.html",
+      "link": "../images/business-travel-bags-overview.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\business-travel-bags-overview.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\business-travel-bags-guide-2024.html",
+      "link": "../images/business-travel-bag-types.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\business-travel-bag-types.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\business-travel-bags-guide-2024.html",
+      "link": "../images/business-travel-bag-features.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\business-travel-bag-features.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\business-travel-bags-guide-2024.html",
+      "link": "../images/business-travel-bag-materials.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\business-travel-bag-materials.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\business-travel-bags-guide-2024.html",
+      "link": "../images/business-travel-capacity-guide.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\business-travel-capacity-guide.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\business-travel-bags-guide-2024.html",
+      "link": "../images/business-travel-bag-brands.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\business-travel-bag-brands.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\business-travel-bags-guide-2024.html",
+      "link": "../images/business-travel-selection-criteria.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\business-travel-selection-criteria.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\business-travel-bags-guide-2024.html",
+      "link": "../images/business-travel-optimization.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\business-travel-optimization.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\business-travel-bags-guide-2024.html",
+      "link": "../images/business-travel-bag-maintenance.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\business-travel-bag-maintenance.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\business-travel-bags-guide-2024.html",
+      "link": "../images/business-travel-investment-guide.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\business-travel-investment-guide.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\business-travel-bags-guide-2024.html",
+      "link": "luxury-briefcases-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-briefcases-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\competitive-analysis-market-research.html",
+      "link": "../images/bespoke-bags-1.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-1.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\competitive-analysis-market-research.html",
+      "link": "../images/bespoke-bags-2.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-2.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\competitive-analysis-market-research.html",
+      "link": "../images/bespoke-bags-3.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-3.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\competitive-analysis-market-research.html",
+      "link": "../images/bespoke-bags-4.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-4.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\corporate-culture-management-innovation.html",
+      "link": "../blog/industry-insights.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\industry-insights.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\corporate-culture-management-innovation.html",
+      "link": "../blog/design-trends.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\design-trends.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\corporate-culture-management-innovation.html",
+      "link": "../blog/manufacturing-tips.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\manufacturing-tips.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\corporate-culture-management-innovation.html",
+      "link": "../blog/sustainability-news.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\sustainability-news.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\corporate-culture-management-innovation.html",
+      "link": "../privacy-policy.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\privacy-policy.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\corporate-culture-management-innovation.html",
+      "link": "../terms-of-service.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\terms-of-service.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\corporate-culture-values.html",
+      "link": "../images/bespoke-bags-5.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-5.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\corporate-culture-values.html",
+      "link": "../images/bespoke-bags-6.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-6.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\corporate-culture-values.html",
+      "link": "../images/bespoke-bags-7.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-7.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\corporate-culture-values.html",
+      "link": "../images/bespoke-bags-8.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-8.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\corporate-social-responsibility.html",
+      "link": "../assets/css/style.css",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\assets\\css\\style.css",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\corporate-social-responsibility.html",
+      "link": "../assets/css/blog.css",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\assets\\css\\blog.css",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\corporate-social-responsibility.html",
+      "link": "../assets/images/logo.svg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\assets\\images\\logo.svg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\corporate-social-responsibility.html",
+      "link": "../assets/images/logo.svg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\assets\\images\\logo.svg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\corporate-social-responsibility.html",
+      "link": "../privacy.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\privacy.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\corporate-social-responsibility.html",
+      "link": "../terms.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\terms.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\corporate-social-responsibility.html",
+      "link": "../assets/js/main.js",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\assets\\js\\main.js",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\cost-optimization-efficiency.html",
+      "link": "../images/bespoke-bags-9.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-9.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\cost-optimization-efficiency.html",
+      "link": "../images/bespoke-bags-10.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-10.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\cost-optimization-efficiency.html",
+      "link": "../images/bespoke-bags-1.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-1.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\cost-optimization-efficiency.html",
+      "link": "../images/bespoke-bags-2.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-2.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\customer-relationship-management-strategies.html",
+      "link": "../blog/industry-insights.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\industry-insights.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\customer-relationship-management-strategies.html",
+      "link": "../blog/design-trends.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\design-trends.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\customer-relationship-management-strategies.html",
+      "link": "../blog/manufacturing-tips.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\manufacturing-tips.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\customer-relationship-management-strategies.html",
+      "link": "../blog/sustainability-news.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\sustainability-news.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\customer-relationship-management-strategies.html",
+      "link": "../privacy-policy.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\privacy-policy.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\customer-relationship-management-strategies.html",
+      "link": "../terms-of-service.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\terms-of-service.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\designer-bucket-bags.html",
+      "link": "../css/styles.css",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\css\\styles.css",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\designer-bucket-bags.html",
+      "link": "../images/bespoke-bags-3.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-3.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\designer-bucket-bags.html",
+      "link": "../images/bespoke-bags-4.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-4.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\designer-bucket-bags.html",
+      "link": "../images/bespoke-bags-5.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-5.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\designer-bucket-bags.html",
+      "link": "../images/bespoke-bags-6.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-6.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\designer-bucket-bags.html",
+      "link": "../images/bespoke-bags-7.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-7.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\designer-bucket-bags.html",
+      "link": "../images/bespoke-bags-8.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-8.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\designer-bucket-bags.html",
+      "link": "../images/bespoke-bags-9.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-9.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\designer-bucket-bags.html",
+      "link": "../images/bespoke-bags-10.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-10.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\designer-handbags-customization-guide-2024.html",
+      "link": "../images/designer-handbags-customization.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\designer-handbags-customization.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\designer-handbags-customization-guide-2024.html",
+      "link": "../images/traditional-craftsmanship.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\traditional-craftsmanship.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\designer-handbags-customization-guide-2024.html",
+      "link": "../images/design-philosophy.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\design-philosophy.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\designer-handbags-customization-guide-2024.html",
+      "link": "../images/quality-standards.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\quality-standards.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\designer-handbags-customization-guide-2024.html",
+      "link": "../images/exotic-leathers.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\exotic-leathers.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\designer-handbags-customization-guide-2024.html",
+      "link": "../images/premium-leathers.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\premium-leathers.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\designer-handbags-customization-guide-2024.html",
+      "link": "../images/luxury-hardware.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\luxury-hardware.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\designer-shoulder-bags-collection.html",
+      "link": "../images/bespoke-bags-7.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-7.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\designer-shoulder-bags-collection.html",
+      "link": "../images/bespoke-bags-8.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-8.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\designer-shoulder-bags-collection.html",
+      "link": "../images/bespoke-bags-9.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-9.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\designer-shoulder-bags-collection.html",
+      "link": "../images/bespoke-bags-10.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-10.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\designer-shoulder-bags-collection.html",
+      "link": "../images/bespoke-bags-1.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-1.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\designer-shoulder-bags-collection.html",
+      "link": "../images/bespoke-bags-2.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-2.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\designer-shoulder-bags-collection.html",
+      "link": "../images/bespoke-bags-3.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-3.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\digital-transformation-strategy.html",
+      "link": "../images/bespoke-bags-7.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-7.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\digital-transformation-strategy.html",
+      "link": "../images/bespoke-bags-8.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-8.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\eco-friendly-leather.html",
+      "link": "../images/bespoke-bags-1.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-1.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\eco-friendly-leather.html",
+      "link": "../images/bespoke-bags-2.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-2.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\eco-friendly-leather.html",
+      "link": "../images/bespoke-bags-3.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-3.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\employee-training-development.html",
+      "link": "../images/bespoke-bags-5.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-5.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\employee-training-development.html",
+      "link": "../images/bespoke-bags-6.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-6.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\employee-training-development.html",
+      "link": "../images/bespoke-bags-7.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-7.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\everyday-luxury-handbags-guide-2024.html",
+      "link": "../images/everyday-luxury-handbags.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\everyday-luxury-handbags.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\everyday-luxury-handbags-guide-2024.html",
+      "link": "../images/comfort-design.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\comfort-design.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\everyday-luxury-handbags-guide-2024.html",
+      "link": "../images/durable-construction.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\durable-construction.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\everyday-luxury-handbags-guide-2024.html",
+      "link": "../images/smart-organization.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\smart-organization.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\everyday-luxury-handbags-guide-2024.html",
+      "link": "../images/timeless-style.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\timeless-style.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\everyday-luxury-handbags-guide-2024.html",
+      "link": "../images/convertible-tote.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\convertible-tote.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\everyday-luxury-handbags-guide-2024.html",
+      "link": "../images/structured-satchel.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\structured-satchel.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\everyday-luxury-handbags-guide-2024.html",
+      "link": "../images/soft-hobo.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\soft-hobo.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\everyday-luxury-handbags-guide-2024.html",
+      "link": "../images/bucket-bag.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bucket-bag.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\everyday-luxury-handbags-guide-2024.html",
+      "link": "handbag-ergonomics-comfort.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\handbag-ergonomics-comfort.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-briefcase-selection-guide-2024.html",
+      "link": "luxury-leather-care-maintenance-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-leather-care-maintenance-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-briefcase-selection-guide-2024.html",
+      "link": "business-travel-organization-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\business-travel-organization-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-briefcase-selection-guide-2024.html",
+      "link": "executive-style-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-style-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-briefcases-complete-guide-2024.html",
+      "link": "../images/executive-briefcases.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\executive-briefcases.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-briefcases-complete-guide-2024.html",
+      "link": "../images/briefcase-construction.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\briefcase-construction.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-briefcases-complete-guide-2024.html",
+      "link": "../images/briefcase-organization.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\briefcase-organization.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-briefcases-guide-2024.html",
+      "link": "../images/bespoke-bags-9.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-9.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-briefcases-guide-2024.html",
+      "link": "../images/bespoke-bags-10.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-10.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-briefcases-guide-2024.html",
+      "link": "../images/bespoke-bags-1.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-1.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-business-sets-guide-2024.html",
+      "link": "../images/logo.png",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\logo.png",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-business-sets-guide-2024.html",
+      "link": "../collections/index.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\collections\\index.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-business-sets-guide-2024.html",
+      "link": "../images/executive-business-sets-hero.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\executive-business-sets-hero.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-business-sets-guide-2024.html",
+      "link": "../images/business-sets-market-trends.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\business-sets-market-trends.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-business-sets-guide-2024.html",
+      "link": "../images/professional-styling-contexts.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\professional-styling-contexts.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-business-sets-guide-2024.html",
+      "link": "../images/executive-set-maintenance.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\executive-set-maintenance.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-business-sets-guide-2024.html",
+      "link": "../images/weekly-leather-care.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\weekly-leather-care.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-business-sets-guide-2024.html",
+      "link": "../images/bespoke-customization-process.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-customization-process.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-business-sets-guide-2024.html",
+      "link": "../images/investment-value-analysis.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\investment-value-analysis.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-business-sets-guide-2024.html",
+      "link": "../images/core-business-accessories.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\core-business-accessories.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-business-sets-guide-2024.html",
+      "link": "../images/specialized-business-tools.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\specialized-business-tools.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-business-sets-guide-2024.html",
+      "link": "../images/color-coordination-business.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\color-coordination-business.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-business-sets-guide-2024.html",
+      "link": "../images/material-coordination.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\material-coordination.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-business-sets-guide-2024.html",
+      "link": "../images/premium-leather-selection.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\premium-leather-selection.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-business-sets-guide-2024.html",
+      "link": "../images/luxury-brand-comparison.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\luxury-brand-comparison.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-business-totes-guide-2024.html",
+      "link": "../images/logo.png",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\logo.png",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-business-totes-guide-2024.html",
+      "link": "../images/executive-business-totes-hero.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\executive-business-totes-hero.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-business-totes-guide-2024.html",
+      "link": "../images/saffiano-leather-texture.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\saffiano-leather-texture.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-business-totes-guide-2024.html",
+      "link": "../images/pebbled-leather-texture.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\pebbled-leather-texture.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-business-totes-guide-2024.html",
+      "link": "../images/smooth-calfskin-texture.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\smooth-calfskin-texture.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-business-totes-guide-2024.html",
+      "link": "../images/structured-executive-tote.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\structured-executive-tote.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-business-totes-guide-2024.html",
+      "link": "../images/soft-professional-tote.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\soft-professional-tote.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-business-totes-guide-2024.html",
+      "link": "../images/convertible-executive-bag.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\convertible-executive-bag.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-business-totes-guide-2024.html",
+      "link": "../images/executive-briefcases-thumb.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\executive-briefcases-thumb.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-business-totes-guide-2024.html",
+      "link": "../images/business-backpacks-thumb.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\business-backpacks-thumb.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-business-totes-guide-2024.html",
+      "link": "../images/professional-laptop-thumb.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\professional-laptop-thumb.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-business-travel-bags-guide-2024.html",
+      "link": "international-travel-accessories-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\international-travel-accessories-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-meeting-bags-guide-2024.html",
+      "link": "../images/executive-meeting-bags.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\executive-meeting-bags.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-meeting-bags-guide-2024.html",
+      "link": "../images/meeting-bag-organization.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\meeting-bag-organization.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-meeting-bags-guide-2024.html",
+      "link": "../images/executive-presentation-features.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\executive-presentation-features.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-womens-handbags-guide-2024.html",
+      "link": "luxury-business-accessories-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-accessories-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-womens-handbags-guide-2024.html",
+      "link": "executive-style-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-style-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-womens-handbags-guide-2024.html",
+      "link": "power-dressing-accessories-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\power-dressing-accessories-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\family-travel-packing-guide.html",
+      "link": "../products.html#casual-bags",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\products.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\family-travel-packing-guide.html",
+      "link": "../products.html#accessories",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\products.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\financial-management-budgeting.html",
+      "link": "../images/bespoke-bags-3.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-3.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\financial-management-budgeting.html",
+      "link": "../images/bespoke-bags-4.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-4.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\financial-management-budgeting.html",
+      "link": "../images/bespoke-bags-5.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-5.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\financial-management-cost-control.html",
+      "link": "../privacy-policy.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\privacy-policy.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\financial-management-cost-control.html",
+      "link": "../terms-of-service.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\terms-of-service.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\financial-management-cost-control.html",
+      "link": "../sitemap.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\sitemap.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\global-expansion-strategy.html",
+      "link": "../images/bespoke-bags-7.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-7.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\global-expansion-strategy.html",
+      "link": "../images/bespoke-bags-8.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-8.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\global-expansion-strategy.html",
+      "link": "../images/bespoke-bags-9.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-9.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\index.html",
+      "link": "production-efficiency.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\production-efficiency.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\index.html",
+      "link": "production-efficiency.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\production-efficiency.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\index.html",
+      "link": "luxury-market-analysis.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-market-analysis.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\index.html",
+      "link": "luxury-market-analysis.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-market-analysis.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\index.html",
+      "link": "craftsmanship-excellence.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\craftsmanship-excellence.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\index.html",
+      "link": "craftsmanship-excellence.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\craftsmanship-excellence.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\index.html",
+      "link": "supply-chain-optimization.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\supply-chain-optimization.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\index.html",
+      "link": "supply-chain-optimization.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\supply-chain-optimization.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\innovation-product-development.html",
+      "link": "../images/bespoke-bags-1.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-1.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\innovation-product-development.html",
+      "link": "../images/bespoke-bags-2.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-2.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\innovation-product-development.html",
+      "link": "../images/bespoke-bags-3.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-3.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\international-trade-regulations.html",
+      "link": "../images/bespoke-bags-5.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-5.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\international-trade-regulations.html",
+      "link": "../images/bespoke-bags-6.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-6.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\international-trade-regulations.html",
+      "link": "../images/bespoke-bags-7.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-7.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\inventory-management-optimization.html",
+      "link": "../images/bespoke-bags-9.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-9.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\inventory-management-optimization.html",
+      "link": "../images/bespoke-bags-10.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-10.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\inventory-management-optimization.html",
+      "link": "../images/bespoke-bags-1.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-1.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\investment-financing-capital-operations.html",
+      "link": "business-strategy-market-positioning.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\business-strategy-market-positioning.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\investment-financing-capital-operations.html",
+      "link": "supply-chain-optimization-strategies.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\supply-chain-optimization-strategies.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\leadership-management-skills.html",
+      "link": "../images/bespoke-bags-3.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-3.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\leadership-management-skills.html",
+      "link": "../images/bespoke-bags-4.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-4.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\leadership-management-skills.html",
+      "link": "../images/bespoke-bags-5.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-5.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\leather-care-maintenance-guide.html",
+      "link": "../images/leather-care-overview.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\leather-care-overview.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\leather-care-maintenance-guide.html",
+      "link": "../images/leather-care-tools.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\leather-care-tools.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\leather-care-maintenance-guide.html",
+      "link": "../images/luxury-trends-thumb.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\luxury-trends-thumb.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\leather-care-maintenance-guide.html",
+      "link": "../images/sustainable-manufacturing-thumb.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\sustainable-manufacturing-thumb.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\leather-care-maintenance-guide.html",
+      "link": "../images/craftsmanship-thumb.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\craftsmanship-thumb.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\legal-compliance-ip-protection.html",
+      "link": "quality-control-assurance-systems.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\quality-control-assurance-systems.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-bag-market-trends.html",
+      "link": "../privacy-policy.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\privacy-policy.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-bag-market-trends.html",
+      "link": "../terms-of-service.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\terms-of-service.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-bag-market-trends.html",
+      "link": "../sitemap.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\sitemap.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-backpacks-guide-2024.html",
+      "link": "../images/logo.png",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\logo.png",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-backpacks-guide-2024.html",
+      "link": "../images/luxury-business-backpacks-hero.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\luxury-business-backpacks-hero.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-backpacks-guide-2024.html",
+      "link": "../images/minimalist-business-backpack.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\minimalist-business-backpack.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-backpacks-guide-2024.html",
+      "link": "../images/tech-business-backpack.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\tech-business-backpack.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-backpacks-guide-2024.html",
+      "link": "../images/heritage-business-backpack.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\heritage-business-backpack.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-backpacks-guide-2024.html",
+      "link": "../images/executive-briefcases-thumb.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\executive-briefcases-thumb.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-backpacks-guide-2024.html",
+      "link": "../images/laptop-bags-thumb.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\laptop-bags-thumb.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-backpacks-guide-2024.html",
+      "link": "../images/business-travel-thumb.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\business-travel-thumb.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-card-holders-guide-2024.html",
+      "link": "professional-networking-accessories-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\professional-networking-accessories-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-card-holders-guide-2024.html",
+      "link": "luxury-business-accessories-investment-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-accessories-investment-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-handbags.html",
+      "link": "../images/bespoke-bags-1.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-1.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-handbags.html",
+      "link": "../images/bespoke-bags-2.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-2.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-handbags.html",
+      "link": "../images/bespoke-bags-3.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-3.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-handbags.html",
+      "link": "../images/bespoke-bags-4.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-4.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-handbags.html",
+      "link": "../images/bespoke-bags-5.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-5.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-handbags.html",
+      "link": "../images/bespoke-bags-6.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-6.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-handbags.html",
+      "link": "../images/bespoke-bags-7.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-7.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-handbags.html",
+      "link": "../images/bespoke-bags-8.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-8.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-handbags.html",
+      "link": "../images/bespoke-bags-9.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-9.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-handbags.html",
+      "link": "../images/bespoke-bags-10.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-10.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-handbags.html",
+      "link": "../js/script.js",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\js\\script.js",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-messenger-bags-guide-2024.html",
+      "link": "../images/logo.png",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\logo.png",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-messenger-bags-guide-2024.html",
+      "link": "../images/luxury-business-messenger-hero.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\luxury-business-messenger-hero.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-messenger-bags-guide-2024.html",
+      "link": "../images/full-grain-leather-messenger.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\full-grain-leather-messenger.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-messenger-bags-guide-2024.html",
+      "link": "../images/saffiano-messenger-bag.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\saffiano-messenger-bag.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-messenger-bags-guide-2024.html",
+      "link": "../images/nappa-leather-messenger.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\nappa-leather-messenger.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-messenger-bags-guide-2024.html",
+      "link": "../images/messenger-tech-compartment.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\messenger-tech-compartment.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-messenger-bags-guide-2024.html",
+      "link": "../images/messenger-document-system.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\messenger-document-system.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-messenger-bags-guide-2024.html",
+      "link": "../images/messenger-personal-organization.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\messenger-personal-organization.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-messenger-bags-guide-2024.html",
+      "link": "../images/messenger-security-features.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\messenger-security-features.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-messenger-bags-guide-2024.html",
+      "link": "../images/classic-executive-messenger.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\classic-executive-messenger.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-messenger-bags-guide-2024.html",
+      "link": "../images/modern-tech-messenger.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\modern-tech-messenger.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-messenger-bags-guide-2024.html",
+      "link": "../images/convertible-professional-messenger.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\convertible-professional-messenger.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-messenger-bags-guide-2024.html",
+      "link": "../images/messenger-strap-ergonomics.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\messenger-strap-ergonomics.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-messenger-bags-guide-2024.html",
+      "link": "../images/messenger-weight-distribution.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\messenger-weight-distribution.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-messenger-bags-guide-2024.html",
+      "link": "../images/messenger-body-interface.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\messenger-body-interface.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-messenger-bags-guide-2024.html",
+      "link": "../images/messenger-monogramming.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\messenger-monogramming.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-messenger-bags-guide-2024.html",
+      "link": "../images/messenger-material-options.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\messenger-material-options.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-messenger-bags-guide-2024.html",
+      "link": "../images/messenger-hardware-custom.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\messenger-hardware-custom.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-messenger-bags-guide-2024.html",
+      "link": "../images/daily-messenger-care.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\daily-messenger-care.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-messenger-bags-guide-2024.html",
+      "link": "../images/weekly-messenger-care.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\weekly-messenger-care.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-messenger-bags-guide-2024.html",
+      "link": "../images/monthly-messenger-care.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\monthly-messenger-care.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-messenger-bags-guide-2024.html",
+      "link": "../images/executive-briefcases-thumb.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\executive-briefcases-thumb.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-messenger-bags-guide-2024.html",
+      "link": "../images/laptop-bags-thumb.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\laptop-bags-thumb.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-messenger-bags-guide-2024.html",
+      "link": "../images/business-backpacks-thumb.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\business-backpacks-thumb.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-messenger-bags-guide-2024.html",
+      "link": "../privacy.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\privacy.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-messenger-bags-guide-2024.html",
+      "link": "../terms.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\terms.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-travel-accessories-guide-2024.html",
+      "link": "business-travel-organization-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\business-travel-organization-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-travel-accessories-guide-2024.html",
+      "link": "international-business-travel-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\international-business-travel-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-wallets-guide-2024.html",
+      "link": "luxury-business-accessories-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-accessories-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-wallets-guide-2024.html",
+      "link": "professional-security-accessories-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\professional-security-accessories-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-wallets-guide-2024.html",
+      "link": "executive-style-investment-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-style-investment-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-womens-handbags-guide-2024.html",
+      "link": "luxury-business-accessories-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-accessories-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-camera-bags-guide-2024.html",
+      "link": "professional-photography-equipment-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\professional-photography-equipment-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-camera-bags-guide-2024.html",
+      "link": "luxury-tech-organizers-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-tech-organizers-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-charger-cases-guide-2024.html",
+      "link": "executive-tech-accessories-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-tech-accessories-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-charger-cases-guide-2024.html",
+      "link": "luxury-cable-organizers-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-cable-organizers-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-crossbody-bags.html",
+      "link": "../images/bespoke-bags-1.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-1.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-crossbody-bags.html",
+      "link": "../images/bespoke-bags-2.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-2.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-crossbody-bags.html",
+      "link": "../images/bespoke-bags-3.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-3.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-crossbody-bags.html",
+      "link": "../images/bespoke-bags-4.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-4.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-crossbody-bags.html",
+      "link": "../images/bespoke-bags-5.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-5.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-crossbody-bags.html",
+      "link": "../images/bespoke-bags-6.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-6.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-crossbody-bags.html",
+      "link": "../images/bespoke-bags-1.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-1.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-crossbody-bags.html",
+      "link": "../images/bespoke-bags-2.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-2.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-crossbody-bags.html",
+      "link": "../js/script.js",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\js\\script.js",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-document-cases-guide-2024.html",
+      "link": "professional-organization-accessories-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\professional-organization-accessories-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-document-cases-guide-2024.html",
+      "link": "luxury-office-accessories-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-office-accessories-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-evening-clutches-guide-2024.html",
+      "link": "vintage-luxury-handbags-investment-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\vintage-luxury-handbags-investment-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-evening-clutches-guide-2024.html",
+      "link": "formal-occasion-bags-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\formal-occasion-bags-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-evening-clutches-guide.html",
+      "link": "../images/bespoke-bags-7.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-7.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-evening-clutches-guide.html",
+      "link": "../images/bespoke-bags-8.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-8.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-evening-clutches-guide.html",
+      "link": "../images/bespoke-bags-9.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-9.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-evening-clutches-guide.html",
+      "link": "../images/bespoke-bags-10.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-10.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-evening-clutches-guide.html",
+      "link": "../images/bespoke-bags-1.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-1.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-evening-clutches-guide.html",
+      "link": "../images/bespoke-bags-2.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-2.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-evening-clutches-guide.html",
+      "link": "../images/bespoke-bags-3.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-3.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-evening-clutches-guide.html",
+      "link": "../images/bespoke-bags-4.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-4.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-evening-clutches-guide.html",
+      "link": "../js/script.js",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\js\\script.js",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-eyewear-cases-guide-2024.html",
+      "link": "professional-luxury-accessories-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\professional-luxury-accessories-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-eyewear-cases-guide-2024.html",
+      "link": "luxury-collection-storage-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-collection-storage-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-authentication-guide-2024.html",
+      "link": "../images/handbag-authentication.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\handbag-authentication.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-authentication-guide-2024.html",
+      "link": "../images/hermes-date-stamp.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\hermes-date-stamp.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-authentication-guide-2024.html",
+      "link": "../images/hermes-stitching.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\hermes-stitching.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-authentication-guide-2024.html",
+      "link": "../images/hermes-hardware.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\hermes-hardware.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-authentication-guide-2024.html",
+      "link": "../images/chanel-serial-numbers.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\chanel-serial-numbers.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-authentication-guide-2024.html",
+      "link": "../images/chanel-quilting.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\chanel-quilting.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-authentication-guide-2024.html",
+      "link": "../images/chanel-cc-logo.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\chanel-cc-logo.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-authentication-guide-2024.html",
+      "link": "../images/lv-canvas-quality.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\lv-canvas-quality.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-authentication-guide-2024.html",
+      "link": "../images/lv-date-codes.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\lv-date-codes.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-authentication-guide-2024.html",
+      "link": "../images/lv-hardware.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\lv-hardware.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-care-guide-2024.html",
+      "link": "../images/luxury-handbag-care.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\luxury-handbag-care.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-care-guide-2024.html",
+      "link": "../images/leather-care.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\leather-care.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-care-guide-2024.html",
+      "link": "../images/exotic-leather-care.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\exotic-leather-care.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-care-guide-2024.html",
+      "link": "../images/fabric-care.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\fabric-care.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-care-guide-2024.html",
+      "link": "../images/structured-bag-storage.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\structured-bag-storage.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-care-guide-2024.html",
+      "link": "../images/soft-bag-storage.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\soft-bag-storage.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-care-guide-2024.html",
+      "link": "../images/exotic-bag-storage.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\exotic-bag-storage.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-investment-collection-guide-2024.html",
+      "link": "../images/luxury-handbag-investment.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\luxury-handbag-investment.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-investment-collection-guide-2024.html",
+      "link": "../images/market-growth-chart.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\market-growth-chart.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-investment-collection-guide-2024.html",
+      "link": "../images/brand-performance.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\brand-performance.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-investment-collection-guide-2024.html",
+      "link": "../images/hermes-investment.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\hermes-investment.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-investment-collection-guide-2024.html",
+      "link": "../images/chanel-investment.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\chanel-investment.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-investment-guide-2024.html",
+      "link": "../images/luxury-handbag-collection.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\luxury-handbag-collection.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-investment-guide-2024.html",
+      "link": "../images/brand-heritage.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\brand-heritage.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-investment-guide-2024.html",
+      "link": "../images/scarcity-exclusivity.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\scarcity-exclusivity.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-investment-guide-2024.html",
+      "link": "../images/craftsmanship-quality.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\craftsmanship-quality.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-investment-guide-2024.html",
+      "link": "../images/hermes-investment.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\hermes-investment.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-investment-guide-2024.html",
+      "link": "../images/chanel-investment.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\chanel-investment.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-investment-guide-2024.html",
+      "link": "../images/louis-vuitton-investment.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\louis-vuitton-investment.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-investment-guide.html",
+      "link": "../images/bespoke-bags-4.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-4.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-investment-guide.html",
+      "link": "../images/bespoke-bags-5.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-5.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-investment-guide.html",
+      "link": "../images/bespoke-bags-6.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-6.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-investment-guide.html",
+      "link": "../images/bespoke-bags-7.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-7.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-investment-guide.html",
+      "link": "../images/bespoke-bags-8.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-8.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-investment-guide.html",
+      "link": "../images/bespoke-bags-9.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-9.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-investment-guide.html",
+      "link": "../images/bespoke-bags-10.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-10.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-investment-guide.html",
+      "link": "../images/bespoke-bags-1.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-1.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-investment-guide.html",
+      "link": "../images/bespoke-bags-2.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-2.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-investment-guide.html",
+      "link": "../images/bespoke-bags-3.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-3.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-materials-craftsmanship-guide-2024.html",
+      "link": "../images/luxury-materials-craftsmanship.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\luxury-materials-craftsmanship.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-materials-craftsmanship-guide-2024.html",
+      "link": "../images/calf-leather.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\calf-leather.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-materials-craftsmanship-guide-2024.html",
+      "link": "../images/lambskin-leather.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\lambskin-leather.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-materials-craftsmanship-guide-2024.html",
+      "link": "../images/goatskin-leather.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\goatskin-leather.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-materials-craftsmanship-guide-2024.html",
+      "link": "../images/crocodile-skin.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\crocodile-skin.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-materials-craftsmanship-guide-2024.html",
+      "link": "../images/alligator-skin.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\alligator-skin.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-materials-craftsmanship-guide-2024.html",
+      "link": "../images/python-skin.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\python-skin.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-materials-craftsmanship-guide-2024.html",
+      "link": "../images/ostrich-skin.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\ostrich-skin.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-materials-craftsmanship-guide-2024.html",
+      "link": "../images/gold-hardware.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\gold-hardware.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-materials-craftsmanship-guide-2024.html",
+      "link": "../images/palladium-hardware.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\palladium-hardware.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-materials-craftsmanship-guide-2024.html",
+      "link": "../images/ruthenium-hardware.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\ruthenium-hardware.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-materials-craftsmanship-guide-2024.html",
+      "link": "../images/hand-stitching.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\hand-stitching.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-materials-craftsmanship-guide-2024.html",
+      "link": "../images/edge-painting.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\edge-painting.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-materials-craftsmanship-guide-2024.html",
+      "link": "../images/pattern-making.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\pattern-making.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-materials-craftsmanship-guide-2024.html",
+      "link": "../images/structured-construction.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\structured-construction.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-materials-craftsmanship-guide-2024.html",
+      "link": "../images/soft-construction.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\soft-construction.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbag-materials-craftsmanship-guide-2024.html",
+      "link": "../images/hybrid-construction.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\hybrid-construction.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbags-complete-guide-2024.html",
+      "link": "../images/luxury-handbags-collection.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\luxury-handbags-collection.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbags-complete-guide-2024.html",
+      "link": "../images/tote-bag-luxury.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\tote-bag-luxury.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbags-complete-guide-2024.html",
+      "link": "../images/clutch-evening.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\clutch-evening.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbags-complete-guide-2024.html",
+      "link": "../images/shoulder-bag-luxury.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\shoulder-bag-luxury.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbags-complete-guide-2024.html",
+      "link": "../images/crossbody-luxury.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\crossbody-luxury.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-handbags-complete-guide-2024.html",
+      "link": "sustainable-luxury-materials.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\sustainable-luxury-materials.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-headphone-cases-guide-2024.html",
+      "link": "executive-audio-accessories-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-audio-accessories-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-headphone-cases-guide-2024.html",
+      "link": "luxury-tech-organizers-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-tech-organizers-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-key-cases-guide-2024.html",
+      "link": "professional-security-accessories-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\professional-security-accessories-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-key-cases-guide-2024.html",
+      "link": "luxury-business-accessories-investment-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-accessories-investment-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-laptop-bags-guide-2024.html",
+      "link": "luxury-tech-organizers-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-tech-organizers-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-luggage-collection-guide-2024.html",
+      "link": "../images/luxury-luggage-collection.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\luxury-luggage-collection.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-luggage-collection-guide-2024.html",
+      "link": "../images/vintage-travel-trunk.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\vintage-travel-trunk.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-luggage-collection-guide-2024.html",
+      "link": "../images/modern-luxury-luggage.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\modern-luxury-luggage.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-luggage-collection-guide-2024.html",
+      "link": "../images/luxury-leather-luggage.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\luxury-leather-luggage.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-luggage-collection-guide-2024.html",
+      "link": "../images/technical-luxury-materials.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\technical-luxury-materials.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-luggage-collection-guide-2024.html",
+      "link": "../images/luxury-hardshell-suitcase.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\luxury-hardshell-suitcase.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-luggage-collection-guide-2024.html",
+      "link": "../images/luxury-softshell-suitcase.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\luxury-softshell-suitcase.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-luggage-sets-guide-2024.html",
+      "link": "../images/luxury-luggage-sets.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\luxury-luggage-sets.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-luggage-sets-guide-2024.html",
+      "link": "../images/luggage-coordination.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\luggage-coordination.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-luggage-sets-guide-2024.html",
+      "link": "../images/luggage-value.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\luggage-value.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-luggage-sets-guide-2024.html",
+      "link": "../images/suitcase-components.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\suitcase-components.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-luggage-sets-guide-2024.html",
+      "link": "../images/travel-accessories.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\travel-accessories.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-luggage-tags-guide-2024.html",
+      "link": "executive-travel-organization-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-travel-organization-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-luggage-tags-guide-2024.html",
+      "link": "luxury-luggage-accessories-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-luggage-accessories-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-medical-bags-guide-2024.html",
+      "link": "professional-healthcare-equipment-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\professional-healthcare-equipment-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-medical-bags-guide-2024.html",
+      "link": "luxury-briefcases-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-briefcases-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-mens-business-wallets-guide-2024.html",
+      "link": "luxury-mens-business-accessories-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-mens-business-accessories-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-mens-business-wallets-guide-2024.html",
+      "link": "professional-mens-security-accessories-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\professional-mens-security-accessories-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-mens-business-wallets-guide-2024.html",
+      "link": "executive-mens-style-investment-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-mens-style-investment-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-mini-bags.html",
+      "link": "../css/styles.css",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\css\\styles.css",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-mini-bags.html",
+      "link": "../images/bespoke-bags-1.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-1.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-mini-bags.html",
+      "link": "../images/bespoke-bags-2.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-2.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-mini-bags.html",
+      "link": "../images/bespoke-bags-3.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-3.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-mini-bags.html",
+      "link": "../images/bespoke-bags-4.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-4.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-mini-bags.html",
+      "link": "../images/bespoke-bags-5.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-5.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-mini-bags.html",
+      "link": "../images/bespoke-bags-6.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-6.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-mini-bags.html",
+      "link": "../images/bespoke-bags-7.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-7.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-mini-bags.html",
+      "link": "../images/bespoke-bags-8.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-8.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-mini-bags.html",
+      "link": "../images/bespoke-bags-9.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-9.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-mini-bags.html",
+      "link": "../images/bespoke-bags-10.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-10.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-passport-holders-guide-2024.html",
+      "link": "international-travel-accessories-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\international-travel-accessories-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-passport-holders-guide-2024.html",
+      "link": "luxury-travel-organization-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-travel-organization-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-pen-cases-guide-2024.html",
+      "link": "professional-writing-accessories-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\professional-writing-accessories-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-pen-cases-guide-2024.html",
+      "link": "luxury-business-accessories-investment-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-accessories-investment-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-phone-cases-guide-2024.html",
+      "link": "executive-accessories-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-accessories-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-phone-cases-guide-2024.html",
+      "link": "luxury-mobile-accessories-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-mobile-accessories-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-shoulder-bags-complete-guide-2024.html",
+      "link": "../images/luxury-shoulder-bags.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\luxury-shoulder-bags.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-shoulder-bags-complete-guide-2024.html",
+      "link": "../images/classic-shoulder-bag.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\classic-shoulder-bag.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-shoulder-bags-complete-guide-2024.html",
+      "link": "../images/hobo-shoulder-bag.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\hobo-shoulder-bag.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-shoulder-bags-complete-guide-2024.html",
+      "link": "../images/bucket-shoulder-bag.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bucket-shoulder-bag.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-shoulder-bags-complete-guide-2024.html",
+      "link": "../images/saddle-shoulder-bag.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\saddle-shoulder-bag.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-shoulder-bags-complete-guide-2024.html",
+      "link": "../services/repair.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\services\\repair.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-shoulder-bags-complete-guide-2024.html",
+      "link": "../services/consultation.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\services\\consultation.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-shoulder-bags-complete-guide-2024.html",
+      "link": "../privacy.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\privacy.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-shoulder-bags-complete-guide-2024.html",
+      "link": "../terms.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\terms.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-shoulder-bags-styling-occasions-2024.html",
+      "link": "../images/logo.png",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\logo.png",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-tablet-cases-guide-2024.html",
+      "link": "executive-device-accessories-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-device-accessories-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-tablet-cases-guide-2024.html",
+      "link": "luxury-tech-accessories-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-tech-accessories-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-tool-bags-guide-2024.html",
+      "link": "professional-equipment-organization-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\professional-equipment-organization-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-tool-bags-guide-2024.html",
+      "link": "luxury-briefcases-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-briefcases-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-tote-bags-guide.html",
+      "link": "../css/styles.css",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\css\\styles.css",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-tote-bags-guide.html",
+      "link": "../images/bespoke-bags-6.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-6.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-tote-bags-guide.html",
+      "link": "../images/bespoke-bags-7.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-7.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-tote-bags-guide.html",
+      "link": "../images/bespoke-bags-8.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-8.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-tote-bags-guide.html",
+      "link": "../images/bespoke-bags-9.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-9.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-tote-bags-guide.html",
+      "link": "../images/bespoke-bags-10.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-10.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-travel-accessories-guide-2024.html",
+      "link": "../images/luxury-travel-accessories.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\luxury-travel-accessories.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-travel-accessories-guide-2024.html",
+      "link": "../images/luxury-leather-goods.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\luxury-leather-goods.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-travel-accessories-guide-2024.html",
+      "link": "../images/luxury-travel-organizers.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\luxury-travel-organizers.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-travel-bags-complete-guide-2024.html",
+      "link": "../images/luxury-travel-bags.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\luxury-travel-bags.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-travel-bags-complete-guide-2024.html",
+      "link": "../images/luxury-suitcase-collection.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\luxury-suitcase-collection.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-travel-bags-complete-guide-2024.html",
+      "link": "../images/luxury-carry-on-bags.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\luxury-carry-on-bags.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-travel-bags-complete-guide-2024.html",
+      "link": "../images/travel-accessories-luxury.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\travel-accessories-luxury.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-travel-bags-complete-guide-2024.html",
+      "link": "../images/wheeled-carry-on.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\wheeled-carry-on.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-travel-bags-complete-guide-2024.html",
+      "link": "../images/luxury-travel-tote.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\luxury-travel-tote.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-travel-bags-complete-guide-2024.html",
+      "link": "../images/garment-bag-luxury.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\garment-bag-luxury.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-travel-bags-guide.html",
+      "link": "../products.html#casual-bags",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\products.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-travel-bags-guide.html",
+      "link": "../products.html#accessories",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\products.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-travel-luggage-investment-guide-2024.html",
+      "link": "luxury-leather-care-maintenance-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-leather-care-maintenance-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-travel-luggage-investment-guide-2024.html",
+      "link": "travel-security-luxury-luggage-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\travel-security-luxury-luggage-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-travel-luggage-investment-guide-2024.html",
+      "link": "sustainable-luxury-travel-gear-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\sustainable-luxury-travel-gear-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-travel-sets-complete-guide-2024.html",
+      "link": "../images/luxury-travel-sets.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\luxury-travel-sets.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-travel-sets-complete-guide-2024.html",
+      "link": "../images/complete-luggage-sets.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\complete-luggage-sets.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-travel-sets-complete-guide-2024.html",
+      "link": "../images/accessory-travel-sets.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\accessory-travel-sets.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-travel-suitcases-guide-2024.html",
+      "link": "travel-accessories-care-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\travel-accessories-care-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-travel-wallets-guide-2024.html",
+      "link": "international-travel-security-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\international-travel-security-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-travel-wallets-guide-2024.html",
+      "link": "luxury-travel-organization-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-travel-organization-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-travel-wallets-guide-2024.html",
+      "link": "premium-travel-investment-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\premium-travel-investment-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-watch-cases-guide-2024.html",
+      "link": "professional-luxury-accessories-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\professional-luxury-accessories-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-watch-cases-guide-2024.html",
+      "link": "luxury-collection-storage-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-collection-storage-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-womens-business-wallets-guide-2024.html",
+      "link": "luxury-womens-business-accessories-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-womens-business-accessories-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-womens-business-wallets-guide-2024.html",
+      "link": "professional-womens-security-accessories-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\professional-womens-security-accessories-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-womens-business-wallets-guide-2024.html",
+      "link": "executive-womens-style-investment-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-womens-style-investment-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\outdoor-adventure-travel-bags.html",
+      "link": "../products.html#casual-bags",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\products.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\outdoor-adventure-travel-bags.html",
+      "link": "../products.html#accessories",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\products.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\premium-business-travel-bags-guide-2024.html",
+      "link": "travel-bag-security-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\travel-bag-security-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\premium-clutch-bags.html",
+      "link": "../images/bespoke-bags-7.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-7.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\premium-clutch-bags.html",
+      "link": "../images/bespoke-bags-8.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-8.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\premium-clutch-bags.html",
+      "link": "../images/bespoke-bags-9.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-9.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\premium-clutch-bags.html",
+      "link": "../images/bespoke-bags-10.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-10.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\premium-clutch-bags.html",
+      "link": "../images/bespoke-bags-1.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-1.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\premium-clutch-bags.html",
+      "link": "../images/bespoke-bags-2.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-2.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\premium-clutch-bags.html",
+      "link": "../images/bespoke-bags-3.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-3.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\premium-clutch-bags.html",
+      "link": "../js/script.js",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\js\\script.js",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\premium-laptop-bags-business-guide-2024.html",
+      "link": "business-travel-organization-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\business-travel-organization-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\premium-laptop-bags-business-guide-2024.html",
+      "link": "professional-tech-accessories-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\professional-tech-accessories-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\premium-laptop-bags-business-guide-2024.html",
+      "link": "luxury-business-bags-investment-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-bags-investment-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\premium-travel-accessories-guide-2024.html",
+      "link": "../images/premium-travel-accessories.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\premium-travel-accessories.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\premium-travel-accessories-guide-2024.html",
+      "link": "../images/leather-travel-accessories.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\leather-travel-accessories.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\premium-travel-accessories-guide-2024.html",
+      "link": "../images/tech-travel-accessories.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\tech-travel-accessories.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\product-innovation-design-trends.html",
+      "link": "../privacy-policy.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\privacy-policy.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\product-innovation-design-trends.html",
+      "link": "../terms-of-service.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\terms-of-service.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\professional-document-cases-guide-2024.html",
+      "link": "../images/professional-document-cases.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\professional-document-cases.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\professional-document-cases-guide-2024.html",
+      "link": "../images/document-organization-systems.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\document-organization-systems.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\professional-document-cases-guide-2024.html",
+      "link": "../images/executive-document-features.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\executive-document-features.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\professional-laptop-bags-guide-2024-part2.html",
+      "link": "../images/laptop-bag-usage-optimization.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\laptop-bag-usage-optimization.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\professional-laptop-bags-guide-2024-part2.html",
+      "link": "../images/laptop-bag-investment-analysis.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\laptop-bag-investment-analysis.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\professional-laptop-bags-guide-2024-part2.html",
+      "link": "luxury-leather-goods-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-leather-goods-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\professional-laptop-bags-guide-2024-part2.html",
+      "link": "professional-accessories-guide-2024.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\professional-accessories-guide-2024.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\professional-laptop-bags-guide-2024.html",
+      "link": "../images/professional-laptop-bags-overview.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\professional-laptop-bags-overview.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\risk-management-crisis-response.html",
+      "link": "business-strategy-market-positioning.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\business-strategy-market-positioning.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\risk-management-crisis-response.html",
+      "link": "supply-chain-optimization-strategies.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\supply-chain-optimization-strategies.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\sustainable-development-environmental-strategy.html",
+      "link": "../assets/css/style.css",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\assets\\css\\style.css",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\sustainable-development-environmental-strategy.html",
+      "link": "../assets/css/blog.css",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\assets\\css\\blog.css",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\sustainable-development-environmental-strategy.html",
+      "link": "../assets/images/logo.svg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\assets\\images\\logo.svg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\sustainable-development-environmental-strategy.html",
+      "link": "../assets/images/logo.svg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\assets\\images\\logo.svg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\sustainable-development-environmental-strategy.html",
+      "link": "../privacy.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\privacy.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\sustainable-development-environmental-strategy.html",
+      "link": "../terms.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\terms.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\sustainable-development-environmental-strategy.html",
+      "link": "../assets/js/main.js",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\assets\\js\\main.js",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\talent-development-team-building.html",
+      "link": "../blog/industry-insights.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\industry-insights.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\talent-development-team-building.html",
+      "link": "../blog/design-trends.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\design-trends.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\talent-development-team-building.html",
+      "link": "../blog/manufacturing-tips.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\manufacturing-tips.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\talent-development-team-building.html",
+      "link": "../blog/sustainability-news.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\sustainability-news.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\talent-development-team-building.html",
+      "link": "../privacy-policy.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\privacy-policy.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\talent-development-team-building.html",
+      "link": "../terms-of-service.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\terms-of-service.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\travel-bag-care-maintenance.html",
+      "link": "../products.html#casual-bags",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\products.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\travel-bag-care-maintenance.html",
+      "link": "../products.html#accessories",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\products.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\travel-bag-materials-durability.html",
+      "link": "../products.html#casual-bags",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\products.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\travel-bag-materials-durability.html",
+      "link": "../products.html#accessories",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\products.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\travel-bag-security-anti-theft.html",
+      "link": "../products.html#casual-bags",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\products.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\travel-bag-security-anti-theft.html",
+      "link": "../products.html#accessories",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\products.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\travel-bag-selection-guide.html",
+      "link": "../products.html#casual-bags",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\products.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\travel-bag-selection-guide.html",
+      "link": "../products.html#accessories",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\products.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\vintage-luxury-handbags.html",
+      "link": "../images/bespoke-bags-1.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-1.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\vintage-luxury-handbags.html",
+      "link": "../images/bespoke-bags-2.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-2.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\vintage-luxury-handbags.html",
+      "link": "../images/bespoke-bags-3.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-3.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\vintage-luxury-handbags.html",
+      "link": "../images/bespoke-bags-4.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-4.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\vintage-luxury-handbags.html",
+      "link": "../images/bespoke-bags-5.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-5.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\vintage-luxury-handbags.html",
+      "link": "../images/bespoke-bags-1.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-1.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\vintage-luxury-handbags.html",
+      "link": "../images/bespoke-bags-2.webp",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-2.webp",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\vintage-luxury-handbags.html",
+      "link": "../js/script.js",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\js\\script.js",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\weekend-travel-bags-guide-2024.html",
+      "link": "../images/weekend-travel-bags.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\weekend-travel-bags.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\weekend-travel-bags-guide-2024.html",
+      "link": "../images/weekend-bag-capacity.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\weekend-bag-capacity.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\weekend-travel-bags-guide-2024.html",
+      "link": "../images/weekend-bag-versatility.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\weekend-bag-versatility.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\weekend-travel-bags-guide-2024.html",
+      "link": "../images/leather-duffle-bag.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\leather-duffle-bag.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\weekend-travel-bags-guide-2024.html",
+      "link": "../images/canvas-duffle-bag.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\canvas-duffle-bag.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\weekend-travel-bags-guide-2024.html",
+      "link": "../images/tote-weekender.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\tote-weekender.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\weekend-travel-bags-guide-2024.html",
+      "link": "../images/messenger-weekender.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\messenger-weekender.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\womens-travel-bags-guide.html",
+      "link": "../products.html#casual-bags",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\products.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\blog\\womens-travel-bags-guide.html",
+      "link": "../products.html#accessories",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\products.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\contact\\index.html",
+      "link": "../privacy-policy.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\privacy-policy.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\products\\backpacks.html",
+      "link": "../images/backpacks-hero.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\backpacks-hero.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\products\\backpacks.html",
+      "link": "../images/hiking-backpacks.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\hiking-backpacks.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\products\\backpacks.html",
+      "link": "../images/business-backpacks.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\business-backpacks.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\products\\backpacks.html",
+      "link": "../images/travel-backpacks.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\travel-backpacks.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\products\\backpacks.html",
+      "link": "../images/school-backpacks.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\school-backpacks.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\products\\backpacks.html",
+      "link": "../images/outdoor-adventure.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\outdoor-adventure.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\products\\backpacks.html",
+      "link": "../images/urban-commuting.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\urban-commuting.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\products\\backpacks.html",
+      "link": "../images/international-travel.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\international-travel.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\products\\backpacks.html",
+      "link": "../images/student-life.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\student-life.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\products\\backpacks.html",
+      "link": "hiking-backpacks.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\products\\hiking-backpacks.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\products\\backpacks.html",
+      "link": "business-backpacks.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\products\\business-backpacks.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\products\\backpacks.html",
+      "link": "travel-backpacks.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\products\\travel-backpacks.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\products\\backpacks.html",
+      "link": "school-backpacks.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\products\\school-backpacks.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\products\\handbags.html",
+      "link": "../images/handbags-hero.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\handbags-hero.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\products\\handbags.html",
+      "link": "../images/luxury-handbags.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\luxury-handbags.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\products\\handbags.html",
+      "link": "../images/business-handbags.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\business-handbags.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\products\\handbags.html",
+      "link": "../images/fashion-handbags.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\fashion-handbags.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\products\\handbags.html",
+      "link": "../images/eco-handbags.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\eco-handbags.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\products\\travel-bags.html",
+      "link": "../images/travel-bags-hero.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\travel-bags-hero.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\products\\travel-bags.html",
+      "link": "../images/carry-on-luggage.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\carry-on-luggage.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\products\\travel-bags.html",
+      "link": "../images/duffel-bags.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\duffel-bags.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\products\\travel-bags.html",
+      "link": "../images/rolling-luggage.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\rolling-luggage.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\products\\travel-bags.html",
+      "link": "../images/garment-bags.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\garment-bags.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\products\\travel-bags.html",
+      "link": "../images/business-travel.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\business-travel.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\products\\travel-bags.html",
+      "link": "../images/leisure-travel.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\leisure-travel.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\products\\travel-bags.html",
+      "link": "../images/adventure-travel.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\adventure-travel.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\products\\travel-bags.html",
+      "link": "../images/extended-travel.jpg",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\images\\extended-travel.jpg",
+      "link_type": "src"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\products\\travel-bags.html",
+      "link": "carry-on-bags.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\products\\carry-on-bags.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\products\\travel-bags.html",
+      "link": "duffel-bags.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\products\\duffel-bags.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\products\\travel-bags.html",
+      "link": "rolling-luggage.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\products\\rolling-luggage.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\products\\travel-bags.html",
+      "link": "garment-bags.html",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\products\\garment-bags.html",
+      "link_type": "href"
+    },
+    {
+      "type": "missing_file",
+      "source_file": "C:\\Users\\A1775\\bespoke-bags.com\\services\\packaging-logistics.html",
+      "link": "../css/styles.css",
+      "target_path": "C:\\Users\\A1775\\bespoke-bags.com\\css\\styles.css",
+      "link_type": "href"
+    }
+  ],
+  "missing_files": [
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-office-accessories-guide-2024.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\assets\\js\\main.js",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\everyday-luxury-handbags.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\quality-standards.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\material-coordination.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\lv-canvas-quality.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\monthly-messenger-care.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\carry-on-luggage.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\structured-executive-tote.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\craftsmanship-hero.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\tech-travel-accessories.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\specialized-business-tools.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\messenger-strap-ergonomics.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\professional-document-cases.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-accessories-guide-2024.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-cable-organizers-guide-2024.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\business-travel-selection-criteria.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\messenger-document-system.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\professional-equipment-organization-guide-2024.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\professional-healthcare-equipment-guide-2024.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\vintage-luxury-handbags-investment-guide-2024.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\brand-heritage.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\professional-womens-security-accessories-guide-2024.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\business-travel-organization-2024.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\hiking-backpacks.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-audio-accessories-guide-2024.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\sustainable-luxury-travel-gear-2024.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\exotic-bag-storage.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\professional-finish.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\clutch-evening.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\products\\rolling-luggage.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\convertible-executive-bag.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\terms-of-service.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\craftsmanship-excellence.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\craftsmanship-thumb.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\business-travel-thumb.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\sitemap.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\premium-travel-investment-guide-2024.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\wheeled-carry-on.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\supply-chain-optimization-strategies.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\ruthenium-hardware.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\lv-hardware.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\professional-leather-goods-trends.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\international-travel-accessories-guide-2024.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\professional-laptop-thumb.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\tech-business-backpack.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\products\\school-backpacks.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\executive-set-maintenance.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\classic-shoulder-bag.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\professional-mens-security-accessories-guide-2024.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-style-investment-guide-2024.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\premium-hardware.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\messenger-security-features.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\alligator-skin.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\messenger-personal-organization.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\messenger-tech-compartment.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\garment-bags.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\handbag-authentication.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\professional-networking-accessories-guide-2024.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\css\\styles.css",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\luxury-luggage-collection.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\premium-leathers.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\traditional-modern-fusion.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\executive-presentation-features.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\lambskin-leather.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\hobo-shoulder-bag.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-mens-style-investment-guide-2024.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\core-business-accessories.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-accessories-investment-guide-2024.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\handbags-hero.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\meeting-bag-organization.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\hermes-hardware.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-collection-storage-guide-2024.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\saddle-shoulder-bag.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\privacy.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\chanel-investment.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\weekly-messenger-care.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\luxury-leather-goods.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\tote-weekender.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\heritage-business-backpack.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\python-skin.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-accessories-guide-2024.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\power-dressing-accessories-2024.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\weekend-travel-bags.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\business-strategy-market-positioning.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\luxury-handbag-care.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-mens-business-accessories-guide-2024.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\outdoor-adventure.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\business-travel-bag-types.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\travel-bag-security-guide-2024.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-travel-organization-guide-2024.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-style-guide-2024.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\assets\\css\\blog.css",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\professional-security-accessories-guide-2024.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\logo.png",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\business-travel-accessories.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\travel-accessories.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\privacy-policy.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\shoulder-bag-luxury.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\professional-accessories-guide-2024.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\luxury-softshell-suitcase.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\luxury-business-messenger-hero.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\technical-luxury-materials.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\fabric-care.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\extended-travel.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\hermes-stitching.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\weekend-bag-versatility.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\hermes-investment.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-6.webp",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\laptop-bag-investment-analysis.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\business-travel.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\canvas-duffle-bag.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\saffiano-leather-texture.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\sustainable-manufacturing.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\luxury-carry-on-bags.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\crossbody-luxury.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\document-organizers.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\structured-construction.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\messenger-body-interface.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\smart-organization.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\durable-construction.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-travel-organization-guide-2024.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\convertible-professional-messenger.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\fashion-handbags.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\color-coordination-business.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-accessories-2024.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-leather-care-maintenance-2024.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\laptop-bag-usage-optimization.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-device-accessories-guide-2024.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-8.webp",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\exotic-leathers.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\products\\business-backpacks.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\chanel-serial-numbers.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-2.webp",
+    "C:\\Users\\A1775\\bespoke-bags.com\\services\\consultation.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\messenger-monogramming.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\formal-occasion-bags-guide-2024.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\school-backpacks.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\investment-value-analysis.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\sustainable-manufacturing-thumb.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\soft-construction.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\products.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-briefcases-guide-2024.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\design-trends.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-luggage-collection.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\convertible-tote.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\business-travel-capacity-guide.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\professional-photography-equipment-guide-2024.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-womens-style-investment-guide-2024.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\exotic-leather-care.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\business-travel-bag-maintenance.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\executive-briefcases.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\business-handbags.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\modern-tech-messenger.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\supply-chain-optimization.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\executive-business-totes-hero.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\executive-document-features.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\tote-bag-luxury.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\business-handbags-collection.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\sustainable-luxury-materials.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\services\\repair.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-9.webp",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\travel-bags-hero.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\briefcase-organization.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\luxury-brand-comparison.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\gold-hardware.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\messenger-hardware-custom.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\international-travel.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\pattern-making.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\collections\\index.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\leisure-travel.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\travel-security-luxury-luggage-2024.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\handbag-ergonomics-comfort.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\calf-leather.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\business-travel-optimization.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\luxury-shoulder-bags.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\vintage-travel-trunk.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\products\\hiking-backpacks.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\products\\garment-bags.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-4.webp",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\soft-bag-storage.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\scarcity-exclusivity.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\messenger-weekender.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\briefcase-construction.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\luxury-handbags.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\products\\carry-on-bags.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\modern-luxury-luggage.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\business-backpacks.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\professional-organization-accessories-guide-2024.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\international-travel-security-guide-2024.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\luxury-travel-tote.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\leather-care.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\premium-leather-selection.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\urban-commuting.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-business-bags-investment-guide-2024.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\weekend-bag-capacity.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\cad-design-system.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\luxury-luggage-sets.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-tech-accessories-guide-2024.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\executive-meeting-bags.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\rolling-luggage.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-womens-business-accessories-guide-2024.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\daily-messenger-care.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\structured-satchel.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\travel-backpacks.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-1.webp",
+    "C:\\Users\\A1775\\bespoke-bags.com\\js\\script.js",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\travel-accessories-luxury.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\executive-briefcases-thumb.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-luggage-accessories-guide-2024.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\eco-handbags.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\executive-tech-accessories-guide-2024.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\nappa-leather-messenger.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\accessory-travel-sets.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\luxury-suitcase-collection.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\luggage-value.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\comfort-design.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\luxury-handbag-investment.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\assets\\images\\logo.svg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-tech-organizers-guide-2024.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\garment-bag-luxury.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\luxury-travel-sets.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\structured-bag-storage.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\crocodile-skin.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-customization-process.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-leather-goods-guide-2024.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\premium-travel-accessories.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\laptop-bags-thumb.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\leather-duffle-bag.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\business-travel-bag-brands.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\louis-vuitton-investment.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\messenger-material-options.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\leather-travel-accessories.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\products\\duffel-bags.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\student-life.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\hermes-date-stamp.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\goatskin-leather.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\bucket-bag.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\chanel-quilting.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\professional-writing-accessories-guide-2024.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\bucket-shoulder-bag.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\professional-styling-contexts.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\edge-painting.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\leather-care-overview.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\messenger-weight-distribution.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\document-organization-systems.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\business-travel-bag-features.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\soft-professional-tote.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\suitcase-components.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\business-backpacks-thumb.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\soft-hobo.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\full-grain-leather-messenger.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\luxury-handbags-collection.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\luxury-travel-organizers.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-7.webp",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\luxury-hardware.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\luxury-trends-thumb.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\production-efficiency.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\hand-stitching-process.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\designer-handbags-customization.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\backpacks-hero.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-market-analysis.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\structured-design.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\pebbled-leather-texture.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\chanel-cc-logo.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\luxury-travel-bags.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\products\\travel-backpacks.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\leather-selection-process.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-10.webp",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\coordinated-accessories.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\adventure-travel.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\luxury-hardshell-suitcase.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\ostrich-skin.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\business-travel-bag-materials.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\quality-control-assurance-systems.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\timeless-style.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\professional-laptop-bags-overview.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\business-sets-market-trends.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\terms.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\assets\\css\\style.css",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\traditional-craftsmanship.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\laser-cutting-technology.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\organizational-compartments.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\market-growth-chart.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\complete-luggage-sets.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\luxury-handbag-collection.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\business-travel-organization-guide-2024.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\professional-tech-accessories-guide-2024.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\business-travel-bags-overview.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\hand-stitching.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\weekly-leather-care.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\lv-date-codes.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\manufacturing-tips.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\luxury-leather-luggage.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\luggage-coordination.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-travel-sets.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\executive-business-sets-hero.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\brand-performance.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\saffiano-messenger-bag.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\craftsmanship-quality.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\international-business-travel-guide-2024.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\design-philosophy.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\luxury-mobile-accessories-guide-2024.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-3.webp",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\business-travel-investment-guide.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\travel-accessories-care-guide-2024.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-evening-bags-hero.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\industry-insights.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\palladium-hardware.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\professional-luxury-accessories-guide-2024.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\blog\\sustainability-news.html",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\smooth-calfskin-texture.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\classic-executive-messenger.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\luxury-materials-craftsmanship.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\luxury-travel-accessories.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\bespoke-bags-5.webp",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\luxury-business-backpacks-hero.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\hybrid-construction.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\minimalist-business-backpack.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\leather-care-tools.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\duffel-bags.jpg",
+    "C:\\Users\\A1775\\bespoke-bags.com\\images\\travel-organizers.jpg"
+  ],
+  "external_links": [
+    "https://fonts.googleapis.com",
+    "https://maps.google.com/?q=Huachuang+Park+Tiyu+Street+Quanzhou+Fujian+China",
+    "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Source+Sans+Pro:wght@300;400;600;700&display=swap",
+    "https://wa.me/8617750020688",
+    "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap",
+    "https://junyuanbags.com",
+    "https://fonts.gstatic.com",
+    "https://wa.me/8617750020688?text=I would like to schedule a consultation call",
+    "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Inter:wght@300;400;500;600&display=swap",
+    "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700&family=Source+Sans+Pro:wght@300;400;600&display=swap"
+  ]
+}
